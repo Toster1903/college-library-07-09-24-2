@@ -1,0 +1,3 @@
+library
+.build/
+.DS_Store
